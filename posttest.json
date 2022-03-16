@@ -1,0 +1,65 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "The decimal number 6 in Excess-3 is written as ",
+      "answers": {
+        "a": "1101",
+        "b": "1001",
+        "c": "0011",
+        "d": "1111"
+      },
+      
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": " If each successive code differs its preceding code by a single bit only, then this code is called",
+      "answers": {
+        "a": "BCD",
+        "b": "Gray",
+        "c": "Weighted Code",
+        "d": "Primary"
+      },
+      
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Gray code of binary '0000' is",
+      "answers": {
+        "a": "0000",
+        "b": "0001",
+        "c": "0010",
+        "d": "1000"
+      },
+      
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "The decimal number 279 will be represented in Excess-3 code as ",
+      "answers": {
+        "a": "100010111",
+        "b": "001001111001",
+        "c": "01011011100",
+        "d": "100011010"
+      },
+      
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "The binary code of a gray code 1000 is",
+      "answers": {
+        "a": "0001",
+        "b": "0011",
+        "c": "1000",
+        "d": "1111"
+      },
+      
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    }
+  ]
+}
