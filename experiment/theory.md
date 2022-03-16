@@ -3,7 +3,7 @@
 A symbolic representation of data/ information is called code. The base or radix of the binary number is 2. Hence, it has two independent symbols. The symbols used are 0 and 1. A binary digit is called as a bit. A binary number consists of sequence of bits, each of which is either a 0 or 1. Each bit carries a weight based on its position relative to the binary point. The weight of each bit position is one power of 2 greater than the weight of the position to its immediate right. e. g. of binary number is 100011 which is equivalent to decimal number 35.
 
 #### BCD Codes:
-Numeric codes represent numeric information i.e. only numbers as a series of 0’s and 1’s. Numeric codes used to represent decimal digits are called Binary Coded Decimal (BCD) codes. A BCD code is one, in which the digits of a decimal number are encoded-one at a time into group of four binary digits. There are a large number of BCD codes in order to represent decimal digits0, 1, 2,……9, it is necessary to use a sequence of at least four binary digits. Such a sequence of binary digits which represents a decimal digit is called code word.
+Numeric codes represent numeric information i.e. only numbers as a series of 0's and 1's. Numeric codes used to represent decimal digits are called Binary Coded Decimal (BCD) codes. A BCD code is one, in which the digits of a decimal number are encoded-one at a time into group of four binary digits. There are a large number of BCD codes in order to represent decimal digits0, 1, 2,....,9, it is necessary to use a sequence of at least four binary digits. Such a sequence of binary digits which represents a decimal digit is called code word.
 
 #### Gray Codes:
 
@@ -56,9 +56,9 @@ To convert from binary code A to binary code B, the input lines must supply the 
 * **Equations:**
 
 z = D
-y = CD+C’D’=CD(C+D)’
-x = B’C+B’D+BC’D’= B’(C+D) +BC’D’
-x = B’(C+D) +B(C+D)’
+y = CD+C'D'=CD(C+D)'
+x = B'C+B'D+BC'D'= B'(C+D) +BC'D'
+x = B'(C+D) +B(C+D)'
 w = A+BC+BD=A+B(C+D)
 
 * **Diagram:**
