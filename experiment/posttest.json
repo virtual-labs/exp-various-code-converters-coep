@@ -2,37 +2,63 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question 1": "The decimal number 6 in Excess-3 is written as ",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "1101",
+        "b": "1001",
+        "c": "0011",
+        "d": "1111"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+      
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question 2": " If each successive code differs its preceding code by a single bit only, then this code is called",
+      "answers": {
+        "a": "BCD",
+        "b": "Gray",
+        "c": "Weighted Code",
+        "d": "Primary"
       },
+      
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question 3": "Gray code of binary '0000' is",
+      "answers": {
+        "a": "0000",
+        "b": "0001",
+        "c": "0010",
+        "d": "1000"
+      },
+      
       "correctAnswer": "a",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question 4": "The decimal number 279 will be represented in Excess-3 code as ",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "100010111",
+        "b": "001001111001",
+        "c": "01011011100",
+        "d": "100011010"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
+      
       "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question 5": "The binary code of a gray code 1000 is",
+      "answers": {
+        "a": "0001",
+        "b": "0011",
+        "c": "1000",
+        "d": "1111"
+      },
+      
+      "correctAnswer": "d",
       "difficulty": "beginner"
     }
   ]

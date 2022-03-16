@@ -2,37 +2,63 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question 1": "Which of the following gate is universal gate?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "AND",
+        "b": "OR",
+        "c": "NOT",
+        "d": "NAND"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+     
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question 2": "Which of the following gate is derived gate?",
+      "answers": {
+        "a": "AND",
+        "b": "OR",
+        "c": "NOT",
+        "d": "EX-OR"
       },
+      
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question 3": "The ASCII code basically is",
+      "answers": {
+        "a": "4 bit code",
+        "b": "6 bit code",
+        "c": "7 bit code",
+        "d": "12 bit code"
+      },
+      
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question 4": "X-NOR gate is combination of an",
+      "answers": {
+        "a": "X-OR and NOT",
+        "b": "NAND and NOR",
+        "c": "X-OR and AND",
+        "d": "X-OR and OR"
+      },
+      
       "correctAnswer": "a",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question 5": "Which of the following is not a basic gate?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "OR",
+        "b": "NOR",
+        "c": "AND",
+        "d": "NOT"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
-      "correctAnswer": "c",
+      
+      "correctAnswer": "b",
       "difficulty": "beginner"
     }
   ]
